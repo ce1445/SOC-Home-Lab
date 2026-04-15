@@ -1,1 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
 
+# VirtualBox
+*.vdi
+*.vbox
+*.log
+
+# Splunk logs / large files
+*.log
+*.csv
+
+# Python 
+__pycache__/
